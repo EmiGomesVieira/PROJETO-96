@@ -1,0 +1,18 @@
+[
+    {
+        "autor": "Autor 1",
+        "legenda": "Esta é a legenda do post 1."
+    },
+    {
+        "autor": "Autor 2",
+        "legenda": "Esta é a legenda do post 2."
+    },
+    {
+        "autor": "Autor 3",
+        "legenda": "Esta é a legenda do post 3."
+    },
+    {
+        "autor": "Autor 4",
+        "legenda": "Esta é a legenda do post 4."
+    }
+]
